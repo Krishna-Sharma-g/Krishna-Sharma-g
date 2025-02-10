@@ -11,7 +11,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="320" />
 
 - 🎓 **First-Year College Student**, passionate about **Blockchain, DSA, Open Source & AI**  
-- 💻 **Tech Stack:** Java, JavaScript, C++, Python, MERN, Spring Boot  
+- 💻 **Tech Stack:** Java, JavaScript, C++, Python, MERN 
 - 🎯 Exploring **Everything!** From **LeetCode & DSA** to **Web3 & AI**  
 - 🚀 **Actively contributing to Open Source & Hackathons**  
 - 🎨 Currently working on **Full Stack & Blockchain projects**  
