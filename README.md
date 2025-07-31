@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm [Gautam]!</h1>
+<h1 align="center">Hey 👋, I'm Gautam!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77D00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Blockchain+%7C+DSA+%7C+Open+Source;Exploring+Everything+%F0%9F%9A%80+DSA%2C+LeetCode%2C+Blockchain%2C+Open+Source;JavaScript+%7C+Java+%7C+C%2B%2B+%7C+Python+%7C+MERN+%7C+Spring+Boot;Building+Awesome+Software+%26+AI+Projects!" />
@@ -30,9 +30,9 @@
 ### 🚀 **Top Projects**
 | 🔥 Project | 💡 Description | 🛠 Tech Stack | 🔗 GitHub Repo |
 |------------|--------------|-------------|-------------|
-| 🛍️ **Digital Storefront** | Hyper-local vendor digital storefront | MERN stack  | [Repo](https://github.com/yourusername/project1) |
-| 🎭 **Digital Business Card** | Interactive business card generator | basic html css and firebase | [Repo](https://github.com/yourusername/project2) |
-| 🔑 **Auth System** | Secure authentication system with JWT & OAuth | firebase | [Repo](https://github.com/yourusername/project3) |
+|  **project management dashboard t** | Hyper-local vendor digital storefront | MERN stack  | [Repo](https://github.com/Krishna-Sharma-g/taskboard-pro) |
+|  **business management system** | Interactive business card generator | basic html css and firebase | [Repo](https://github.com/Manishym956/IgniteEdge) |
+|  **multiplayer tic tac toe with bot ** | Secure authentication system with JWT & OAuth | firebase | [Repo](https://github.com/Krishna-Sharma-g/tic-tac-toe-online-game-) |
 
 🔗 **Check all my projects** ➡️ [GitHub Repositories](https://github.com/yourusername?tab=repositories)
 
@@ -41,4 +41,4 @@
   
 ## 📞 Let's Connect
 <p align="center"> 
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white"></a> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:gautamkrishnasharma1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
