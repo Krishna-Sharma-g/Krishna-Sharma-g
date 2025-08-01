@@ -30,8 +30,8 @@
 ### 🚀 **Top Projects**
 | 🔥 Project | 💡 Description | 🛠 Tech Stack | 🔗 GitHub Repo |
 |------------|--------------|-------------|-------------|
-|  **project management dashboard** | Hyper-local vendor digital storefront | MERN stack  | [Repo](https://github.com/Krishna-Sharma-g/taskboard-pro) |
-|  **business management system** | Interactive business card generator | basic html css and firebase | [Repo](https://github.com/Manishym956/IgniteEdge) |
+|  **project management dashboard** | product managemtn dashbords for projects | MERN stack  | [Repo](https://github.com/Krishna-Sharma-g/taskboard-pro) |
+|  **business management system** | business anaylytic dashboards with charts and all  | basic html css and firebase | [Repo](https://github.com/Manishym956/IgniteEdge) |
 |  **multiplayer tic tac toe with bot** | Secure authentication system with JWT & OAuth | firebase | [Repo](https://github.com/Krishna-Sharma-g/tic-tac-toe-online-game-) |
 
 🔗 **Check all my projects** ➡️ [GitHub Repositories](https://github.com/yourusername?tab=repositories)
